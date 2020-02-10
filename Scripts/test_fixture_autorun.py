@@ -1,4 +1,5 @@
 '''
+fixture自动运行
 @pytest.fixture(autouse=True)
 作用：装饰的工厂函数不需要调用，会在每个测试方法前自动运行
 '''

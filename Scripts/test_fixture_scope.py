@@ -1,4 +1,6 @@
 '''
+fixture作用域
+
 @pytest.fixture(scope="function")
 # "function"(default):作用于每个测试方法，每个test都运行一次
 # "class":作用于整个类，每个class的所有test只运行一次

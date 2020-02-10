@@ -1,5 +1,5 @@
+# parametrize数据参数化
 # import pytest
-#
 #
 # @pytest.mark.parametrize("参数", 参数值)
 #     参数说明:

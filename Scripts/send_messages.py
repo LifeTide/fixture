@@ -1,4 +1,6 @@
 """
+练习：发送短信
+
 启动android手机模拟器发送短信
     循环发送三个内容： hello good  night
 """
